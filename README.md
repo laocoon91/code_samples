@@ -31,4 +31,3 @@ Python:
 -matplotlib
 
 Ian Stone, March 2022
-![image](https://user-images.githubusercontent.com/16617064/222844637-14b999cf-afd3-4306-b323-c2dd61f1a686.png)
